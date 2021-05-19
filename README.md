@@ -1,5 +1,15 @@
 # Chhattisgarh Board of Secondary Education (Examination Results) | CGBSE RESULT 2021 | 10th Board Exam 2021 Result
 
+
+# Installation
+Add the dependencies
+
+```groovy
+beautifulsoup4
+lxml
+requests
+```
+
 ## Check result of a single student
 
 ```
